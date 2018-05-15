@@ -3,13 +3,13 @@
 var Alexa = require('alexa-sdk');
 
 var streamInfo = {
-  title: 'Audio Stream Starter',
-  subtitle: 'A starter template for an Alexa audio streaming skill.',
-  cardContent: "Get more details at: https://skilltemplates.com",
-  url: 'https://streaming.radionomy.com/RadioXUS?lang=en-US&appName=iTunes.m3u',
+  title: '<<CHANGEME>>',
+  subtitle: '<<CHANGEME>>',
+  cardContent: "Get more details at: https://chillradio.co.uk/<<CHANGEME>>",
+  url: 'https://streaming.radionomy.com/<<CHANGEME>>?lang=en-US&appName=iTunes.m3u',
   image: {
-    largeImageUrl: 'https://s3.amazonaws.com/cdn.dabblelab.com/img/alexa-card-lg.png',
-    smallImageUrl: 'https://s3.amazonaws.com/cdn.dabblelab.com/img/alexa-card-sm.png'
+    largeImageUrl: 'https://raw.githubusercontent.com/charliebritton/chillradio-assets/master/<<CHANGEME>>/<<CHANGEME>>-logo_512px.png',
+    smallImageUrl: 'https://raw.githubusercontent.com/charliebritton/chillradio-assets/master/<<CHANGEME>>/<<CHANGEME>>-logo_108px_amzn_sm.png'
   }
 };
 
