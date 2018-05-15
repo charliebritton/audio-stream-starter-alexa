@@ -6,7 +6,7 @@ var streamInfo = {
   title: '<<CHANGEME>>',
   subtitle: '<<CHANGEME>>',
   cardContent: "Get more details at: https://chillradio.co.uk/<<CHANGEME>>",
-  url: 'https://streaming.radionomy.com/<<CHANGEME>>?lang=en-US&appName=iTunes.m3u',
+  url: 'https://streaming.shoutcast.com/<<CHANGEME>>.m3u',
   image: {
     largeImageUrl: 'https://raw.githubusercontent.com/charliebritton/chillradio-assets/master/<<CHANGEME>>/<<CHANGEME>>-logo_512px.png',
     smallImageUrl: 'https://raw.githubusercontent.com/charliebritton/chillradio-assets/master/<<CHANGEME>>/<<CHANGEME>>-logo_108px_amzn_sm.png'
