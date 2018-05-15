@@ -25,7 +25,7 @@
           "smallIconUri": "https://raw.githubusercontent.com/charliebritton/chillradio-assets/master/<<CHANGEME>>/<<CHANGEME>>-logo_108px_amzn_sm.png",
           "largeIconUri": "https://raw.githubusercontent.com/charliebritton/chillradio-assets/master/<<CHANGEME>>/<<CHANGEME>>-logo_512px.png"
         },
-        "en-US": {
+        "en-GB": {
           "summary": "Plays <<CHANGEME>> from ChillRadio.co.uk",
           "examplePhrases": [
             "Alexa, open <<CHANGEME>>",
