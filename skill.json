@@ -1,27 +1,44 @@
 {
-  "skillManifest": {
+  "manifest": {
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "A starter template for an Alexa audio streaming skill.",
+          "summary": "Plays <<CHANGEME>> from ChillRadio.co.uk",
           "examplePhrases": [
-            "Alexa, open Audio Steam Starter",
-            "Alexa, play Audio Steam Starter",
-            "Alexa, ask Audio Steam Starter to play"
+            "Alexa, open <<CHANGEME>>",
+            "Alexa, play <<CHANGEME>>",
+            "Alexa, ask <<CHANGEME>> to play"
           ],
           "keywords": [
             "audio streaming",
             "music",
             "live music"
           ],
-          "name": "Audio Steam Starter",
-          "description": "A starter template for an Alexa audio streaming skill.",
-          "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
-          "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
+          "name": "<<CHANGEME>>",
+          "description": "Plays <<CHANGEME>> from ChillRadio.co.uk\n\nFollow us on Twitter, we're @UKChillRadio!",
+          "smallIconUri": "https://raw.githubusercontent.com/charliebritton/chillradio-assets/master/<<CHANGEME>>/<<CHANGEME>>-logo_108px_amzn_sm.png",
+          "largeIconUri": "https://raw.githubusercontent.com/charliebritton/chillradio-assets/master/<<CHANGEME>>/<<CHANGEME>>-logo_512px.png"
+        },
+        "en-US": {
+          "summary": "Plays <<CHANGEME>> from ChillRadio.co.uk",
+          "examplePhrases": [
+            "Alexa, open <<CHANGEME>>",
+            "Alexa, play <<CHANGEME>>",
+            "Alexa, ask <<CHANGEME>> to play"
+          ],
+          "keywords": [
+            "audio streaming",
+            "music",
+            "live music"
+          ],
+          "name": "<<CHANGEME>>",
+          "description": "Plays <<CHANGEME>> from ChillRadio.co.uk\n\nFollow us on Twitter, we're @UKChillRadio!",
+          "smallIconUri": "https://raw.githubusercontent.com/charliebritton/chillradio-assets/master/<<CHANGEME>>/<<CHANGEME>>-logo_108px_amzn_sm.png",
+          "largeIconUri": "https://raw.githubusercontent.com/charliebritton/chillradio-assets/master/<<CHANGEME>>/<<CHANGEME>>-logo_512px.png"
         }
       },
       "isAvailableWorldwide": true,
-      "testingInstructions": "No special instructions",
+      "testingInstructions": "From https://chillradio.co.uk/ipr.txt\n--------------------------------------------\nINTELLECTUAL PROPERTY RIGHTS NOTICE\n\nChill Radio (chillradio.co.uk) hereby allows Charlie Britton (chza.me) to distribute apps or skills to Amazon on our behalf without hindrance or restriction.\n\nIf you have any queries about this notice, do not hesitate to get in touch at the email below.\n\nContact Email: charliebrittdev [at] gmail.com\n--------------------------------------------\n\nOtherwise, no special instructions",
       "category": "STREAMING_SERVICE",
       "distributionCountries": []
     },
