@@ -1,3 +1,5 @@
 # Audio Stream Starter - Skill Template
 
-A starter template for an Alexa audio streaming skill.
+This wasn't made by me! All credit to https://github.com/skilltemplates.
+
+Just forked to make it easier for me to make skills for my radio
