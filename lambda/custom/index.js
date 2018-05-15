@@ -45,7 +45,7 @@ var handlers = {
     this.callback(null, null)
   },
   'Unhandled': function() {
-    this.response.speak('Sorry. Something went wrong.');
+    this.response.speak('Oh no! Something went wrong.');
     this.emit(':responseReady');
   },
   'AMAZON.NextIntent': function() {
@@ -63,7 +63,7 @@ var handlers = {
     this.emit('AMAZON.StopIntent');
   },
   'AMAZON.StopIntent': function() {
-    this.response.speak('Okay. I\'ve stopped the stream.').audioPlayerStop();
+    this.response.speak('Thanks for listening to ' + streamInfo.title).audioPlayerStop();
     this.emit(':responseReady');
   },
   'AMAZON.ResumeIntent': function() {
