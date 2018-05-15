@@ -10,9 +10,15 @@
             "Alexa, ask <<CHANGEME>> to play"
           ],
           "keywords": [
-            "audio streaming",
+            "audio",
+            "streaming",
             "music",
-            "live music"
+            "live",
+            "music",
+            "chillout",
+            "chill",
+            "relaxing",
+            "peaceful"
           ],
           "name": "<<CHANGEME>>",
           "description": "Plays <<CHANGEME>> from ChillRadio.co.uk\n\nFollow us on Twitter, we're @UKChillRadio!",
@@ -27,9 +33,15 @@
             "Alexa, ask <<CHANGEME>> to play"
           ],
           "keywords": [
-            "audio streaming",
+            "audio",
+            "streaming",
             "music",
-            "live music"
+            "live",
+            "music",
+            "chillout",
+            "chill",
+            "relaxing",
+            "peaceful"
           ],
           "name": "<<CHANGEME>>",
           "description": "Plays <<CHANGEME>> from ChillRadio.co.uk\n\nFollow us on Twitter, we're @UKChillRadio!",
